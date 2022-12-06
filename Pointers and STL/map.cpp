@@ -1,3 +1,17 @@
+/**
+ * @file map.cpp
+ * @author Lokesh Shelva
+ * 
+ * @brief Maps are associative containers that store elements formed by a combination of a key value and a mapped value, 
+ * following a specific order.In a map, the key values are generally used to sort and uniquely identify the elements, 
+ * while the mapped values store the content associated to this key. 
+ * The types of key and mapped value may differ, and are grouped together in member type value_type, 
+ * which is a pair type combining both key and value.
+ * 
+ * @date 2022-12-06
+ * 
+ */
+
 #include <iostream>
 #include <map>
 #include <vector>

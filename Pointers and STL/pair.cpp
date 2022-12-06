@@ -1,3 +1,14 @@
+/**
+ * @file pair.cpp
+ * @author Lokesh Shelva
+ * 
+ * @brief Pair couples together a pair of values, which may be of different types. 
+ * The individual values can be accessed through its public members first and second.
+ * 
+ * @date 2022-12-06
+ * 
+ */
+
 #include <iostream>
 #include <utility>
 

@@ -1,3 +1,13 @@
+/**
+ * @file pointers.cpp
+ * @author Lokesh Shelva
+ * 
+ * @brief A pointer is a special type of variable which stores memory address.
+ * 
+ * @date 2022-12-06
+ * 
+ */
+
 #include <iostream>
 
 using namespace std;

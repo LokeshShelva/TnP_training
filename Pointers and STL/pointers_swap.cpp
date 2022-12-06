@@ -1,3 +1,14 @@
+/**
+ * @file pointers_swap.cpp
+ * @author Lokesh Shelva
+ * 
+ * @brief This is a example of the concept of pass by reference where a pointer to the variable
+ * is passed to the function instead of the actual value of the variable.
+ *
+ * @date 2022-12-06
+ * 
+ */
+
 #include <iostream>
 
 using namespace std;

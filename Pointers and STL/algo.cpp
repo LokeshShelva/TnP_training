@@ -1,3 +1,13 @@
+/**
+ * @file algo.cpp
+ * @author Lokesh Shelva
+ * 
+ * @brief Important algorithms that are implemented in the STL.
+ * 
+ * @date 2022-12-06
+ * 
+ */
+
 #include <iostream>
 #include <algorithm>
 #include <vector>
